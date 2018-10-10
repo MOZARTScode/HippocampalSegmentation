@@ -1,0 +1,7 @@
+
+重要参考：
+CPU上caffe安装：https://blog.csdn.net/letian0805/article/details/52845285
+
+这两个地方使用的是python3
+pip3 install -r python/requirements.txt
+pip3 install jupyter
